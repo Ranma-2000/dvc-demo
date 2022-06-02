@@ -1,0 +1,5 @@
+outs:
+- md5: 15b12bb5252d71d74d604950932133f4.dir
+  size: 9138
+  nfiles: 10
+  path: test_msk
